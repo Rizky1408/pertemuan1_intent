@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Pertemuan1Intent">
         <activity
+            android:name=".result_Lsegitiga"
+            android:exported="true" />
+        <activity
             android:name=".Biodata"
             android:exported="true" />
         <activity
